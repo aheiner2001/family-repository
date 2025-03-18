@@ -6,16 +6,20 @@ Just some random project ideas
 **simple web scraper**
   - web a website that retrieves certain information for a website, maybe try to webscrap the prices of an item from walmart
 
-**recipe website** with these features: 
--database connections
-        -user login and registration
-        - ability to change the amount of ingrediennts by chaning the serving size but not necesaary
-        -ai api calls to help summarize or whatever, do something kind of cool,
-        ability to add a profile with
-        - add videos and photos of the recipe
-        - Pages: Home, profile, add recipe(add, edit, delete),
-        - search for recipes
-        -use ai to search for specifc recipies and other
-        -share recipep option
-        -upload recipe (any text file that can be read, which will use AI to formate and upload to the database)
-        -try to figue
+**recipe website** 
+features:
+- Database connections  
+- User login and registration  
+- Ability to change the amount of ingredients by changing the serving size (optional)  
+- AI API calls to help summarize or do something cool  
+- Ability to add a profile with:  
+  - Add videos and photos of the recipe  
+- Pages:  
+  - Home  
+  - Profile  
+  - Add recipe (add, edit, delete)  
+- Search for recipes  
+- Use AI to search for specific recipes and more  
+- Share recipe option  
+- Upload recipe (any text file that can be read, which will use AI to format and upload to the database)  
+- Try to figure out... (unfinished thought, feel free to complete it)  
