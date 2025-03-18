@@ -4,7 +4,7 @@ Just some random project ideas
 
 
 Here is a website with project ideas and well as with solutions that you can use to try to understand how to do it:
-**https://roadmap.sh/projects **
+https://roadmap.sh/projects
 
 **Task Tracker**
 ![image](https://github.com/user-attachments/assets/05a1e1ee-50c3-439f-af95-fd68c4200fc0)
